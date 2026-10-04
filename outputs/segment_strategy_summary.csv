@@ -1,0 +1,5 @@
+Segment,MarketingStrategy,Customers,AvgRecency,AvgFrequency,AvgMonetary
+High-Value Loyal,"Retention, VIP rewards, loyalty benefits, early access, cross-sell premium products",632,11.56,13.68,7251.41
+Inactive Low-Value,"Low-cost reactivation campaigns, limited-time offers, automated win-back emails",1461,182.84,1.33,331.77
+Recent Low-Engagement,"Welcome campaigns, onboarding offers, second-purchase incentives, product discovery",776,19.37,2.08,525.64
+Regular Mid-Value,"Encourage repeat purchases, personalized recommendations, bundles, loyalty incentives",1051,68.49,4.23,1743.95
